@@ -1,0 +1,14 @@
+{
+  "ID": "ED86DFE645DC4D5EAA5BD68112F0CFF8",
+  "ActionKeyword": "tools",
+  "IsGlobal": false,
+  "Name": "Tools",
+  "Author": "qianshi",
+  "Version": "0.82.1",
+  "Language": "csharp",
+  "Website": "https://github.com/qianshi/PowerToysRunPlugins",
+  "ExecuteFileName": "PowerToys.Run.Tools.dll",
+  "IcoPathDark": "Images\\tools.dark.png",
+  "IcoPathLight": "Images\\tools.light.png",
+  "DynamicLoading": false
+}
